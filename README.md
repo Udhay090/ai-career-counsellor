@@ -1,1 +1,1 @@
-# ai-career--counsellor
+# ai-career-counsellor
