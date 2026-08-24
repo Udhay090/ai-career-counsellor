@@ -1,0 +1,8 @@
+flowchart LR
+    U[User] --> P[Profile Analyzer]
+    P --> G[Skill Gap Analyzer]
+    G --> C[Course Recommender]
+    C --> A[Career Advisor]
+    A --> U
+
+    H[Recent conversation history] --> P
